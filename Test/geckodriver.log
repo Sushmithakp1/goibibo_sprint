@@ -1,0 +1,225 @@
+1669374377074	geckodriver	INFO	Listening on 127.0.0.1:50130
+1669374380220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilerG31Ou"
+1669374491511	geckodriver	INFO	Listening on 127.0.0.1:50279
+1669374494598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileHSXRZM"
+1669374496206	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12192] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5676] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5676] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1669375257322	geckodriver	INFO	Listening on 127.0.0.1:50564
+1669375260436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileMVX2GC"
+1669375262037	Marionette	INFO	Marionette enabled
+1669375262056	Marionette	INFO	Listening on port 50579
+Read port: 50579
+1669375262591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileMVX2GC\\search.json.mozlz4", (void 0)))
+1669375289009	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669375314244	Marionette	INFO	Stopped listening on port 50579
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669375340590	geckodriver	INFO	Listening on 127.0.0.1:49861
+1669375343691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileRbIuQA"
+1669375345790	Marionette	INFO	Marionette enabled
+1669375345811	Marionette	INFO	Listening on port 49873
+Read port: 49873
+Read port: 49873
+1669375347521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileRbIuQA\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/UIlZIlaHLZBJ898Q9vLn/kED78S8N9z/W3JTOn5fDQs/dAwZa/HxDA2IB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/UIlZIlaHLZBJ898Q9vLn/kED78S8N9z/W3JTOn5fDQs/dAwZa/HxDA2IB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/UIlZIlaHLZBJ898Q9vLn/kED78S8N9z/W3JTOn5fDQs/dAwZa/HxDA2IB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669375363741	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://goibibo.ibcdn.com/s3/gocarsfrontend/cars-dweb.a98327d7.js, line 1: TypeError: l().error is not a function
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+JavaScript error: https://www.goibibo.com/cars/confirm/?qryParams={%22v_d%22:%2261012e684887a600245aa529%22,%22s_d%22:%226380a5a998aaa6001fa622be%22,%22pc%22:%22%22,%22isSeo%22:false}, line 1: ReferenceError: pagespeed is not defined
+1669375453260	Marionette	INFO	Stopped listening on port 49873
+[Parent 16872, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669376021870	geckodriver	INFO	Listening on 127.0.0.1:57840
+1669376024954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDa11Cs"
+1669376027328	Marionette	INFO	Marionette enabled
+1669376027358	Marionette	INFO	Listening on port 57852
+Read port: 57852
+Read port: 57852
+1669376028791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDa11Cs\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/UIlZIlaHLZBJ898Q9vLn/kED78S8N9z/W3JTOn5fDQs/dAwZa/HxDA2IB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/UIlZIlaHLZBJ898Q9vLn/kED78S8N9z/W3JTOn5fDQs/dAwZa/HxDA2IB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/UIlZIlaHLZBJ898Q9vLn/kED78S8N9z/W3JTOn5fDQs/dAwZa/HxDA2IB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669376046159	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://goibibo.ibcdn.com/s3/gocarsfrontend/cars-dweb.a98327d7.js, line 1: TypeError: l().error is not a function
+1669376103428	Marionette	INFO	Stopped listening on port 57852
+[Parent 6192, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1669612171081	geckodriver	INFO	Listening on 127.0.0.1:58636
+1669612174120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileP89P2R"
+1669612177618	Marionette	INFO	Marionette enabled
+1669612177645	Marionette	INFO	Listening on port 58653
+Read port: 58653
+Read port: 58653
+1669612179270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileP89P2R\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/Yx9cR729iRPD/Ms3Ih6/Se4NBJ/N3f5fkhcYD/DVUXRgE/d2/ZWbSwPWmYB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/Yx9cR729iRPD/Ms3Ih6/Se4NBJ/N3f5fkhcYD/DVUXRgE/d2/ZWbSwPWmYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/Yx9cR729iRPD/Ms3Ih6/Se4NBJ/N3f5fkhcYD/DVUXRgE/d2/ZWbSwPWmYB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669612201419	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://goibibo.ibcdn.com/s3/gocarsfrontend/cars-dweb.a98327d7.js, line 1: TypeError: l().error is not a function
+1669612260492	Marionette	INFO	Stopped listening on port 58653
+[Parent 10152, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+[Parent 10152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669702333476	geckodriver	INFO	Listening on 127.0.0.1:52374
+1669702336604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile5fVwLC"
+1669702338973	Marionette	INFO	Marionette enabled
+1669702338994	Marionette	INFO	Listening on port 52386
+Read port: 52386
+Read port: 52386
+1669702340707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile5fVwLC\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669702360874	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669702403140	Marionette	INFO	Stopped listening on port 52386
+1669702627176	geckodriver	INFO	Listening on 127.0.0.1:52781
+1669702630272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilevSHn50"
+1669702632535	Marionette	INFO	Marionette enabled
+1669702632558	Marionette	INFO	Listening on port 52793
+Read port: 52793
+Read port: 52793
+1669702634211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilevSHn50\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669702656571	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://goibibo.ibcdn.com/s3/gocarsfrontend/cars-dweb.a98327d7.js, line 1: TypeError: l().error is not a function
+1669706167186	Marionette	INFO	Stopped listening on port 52793
+[Parent 11316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 11316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 11316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 11316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 11316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 11316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 11316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669707304617	geckodriver	INFO	Listening on 127.0.0.1:53533
+1669707307729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilemTDJ6G"
+1669707310092	Marionette	INFO	Marionette enabled
+1669707310113	Marionette	INFO	Listening on port 53545
+Read port: 53545
+Read port: 53545
+1669707311905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilemTDJ6G\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669707339757	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://goibibo.ibcdn.com/s3/gocarsfrontend/cars-dweb.a98327d7.js, line 1: TypeError: l().error is not a function
+1669707392923	Marionette	INFO	Stopped listening on port 53545
+1669707395191	geckodriver	INFO	Listening on 127.0.0.1:53663
+1669707398255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilefOdnba"
+1669707400073	Marionette	INFO	Marionette enabled
+1669707400091	Marionette	INFO	Listening on port 53676
+Read port: 53676
+1669707401088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilefOdnba\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669707415331	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669707457012	Marionette	INFO	Stopped listening on port 53676
+1669715030452	geckodriver	INFO	Listening on 127.0.0.1:53145
+1669715033550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilewu7eCX"
+1669715035859	Marionette	INFO	Marionette enabled
+1669715035880	Marionette	INFO	Listening on port 53159
+Read port: 53159
+Read port: 53159
+1669715037429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilewu7eCX\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669715053250	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://goibibo.ibcdn.com/s3/gocarsfrontend/cars-dweb.a98327d7.js, line 1: TypeError: l().error is not a function
+1669715106728	Marionette	INFO	Stopped listening on port 53159
+[Parent 5588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1669715108988	geckodriver	INFO	Listening on 127.0.0.1:53254
+1669715112038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileVdWhUH"
+1669715113817	Marionette	INFO	Marionette enabled
+1669715113835	Marionette	INFO	Listening on port 53266
+Read port: 53266
+1669715114864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileVdWhUH\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669715128185	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669715170338	Marionette	INFO	Stopped listening on port 53266
+[Parent 2124, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+[Parent 2124, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1669717364903	geckodriver	INFO	Listening on 127.0.0.1:54145
+1669717367990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilezY0sgD"
+1669717370119	Marionette	INFO	Marionette enabled
+1669717370142	Marionette	INFO	Listening on port 54157
+Read port: 54157
+Read port: 54157
+1669717371668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilezY0sgD\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669717386708	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://goibibo.ibcdn.com/s3/gocarsfrontend/cars-dweb.a98327d7.js, line 1: TypeError: l().error is not a function
+1669717440187	Marionette	INFO	Stopped listening on port 54157
+1669717442317	geckodriver	INFO	Listening on 127.0.0.1:54253
+1669717445375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileNs35be"
+1669717447284	Marionette	INFO	Marionette enabled
+1669717447303	Marionette	INFO	Listening on port 54266
+Read port: 54266
+1669717448423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileNs35be\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.goibibo.com/jVFt7J38YK/zU/heG3faDY/GOa5kGJN/ZmILAg/FC4pfjcc/KiwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669717462330	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1669717506183	Marionette	INFO	Stopped listening on port 54266
